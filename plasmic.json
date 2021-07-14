@@ -1,0 +1,229 @@
+{
+  "platform": "react",
+  "code": {
+    "lang": "js",
+    "scheme": "blackbox",
+    "reactRuntime": "classic"
+  },
+  "style": {
+    "scheme": "css-modules",
+    "defaultStyleCssFilePath": "plasmic/plasmic__default_style.module.css"
+  },
+  "images": {
+    "scheme": "files",
+    "publicDir": "../../public",
+    "publicUrlPrefix": "/static/"
+  },
+  "tokens": {
+    "scheme": "theo",
+    "tokensFilePath": "plasmic-tokens.theo.json"
+  },
+  "srcDir": "src/components",
+  "defaultPlasmicDir": "./plasmic",
+  "projects": [
+    {
+      "projectId": "d1owdbBMaohsPXtfTvtnQ1",
+      "projectName": "Blank project",
+      "version": "latest",
+      "cssFilePath": "plasmic/blank_project/plasmic_blank_project.module.css",
+      "components": [
+        {
+          "id": "woB6yKTxu7L4",
+          "name": "Homepage",
+          "type": "managed",
+          "projectId": "d1owdbBMaohsPXtfTvtnQ1",
+          "renderModuleFilePath": "plasmic/blank_project/PlasmicHomepage.jsx",
+          "importSpec": {
+            "modulePath": "Homepage.jsx"
+          },
+          "cssFilePath": "plasmic/blank_project/PlasmicHomepage.module.css",
+          "scheme": "blackbox",
+          "componentType": "page"
+        }
+      ],
+      "icons": [
+        {
+          "id": "v2sebA2D5Z",
+          "name": "SearchIcon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Search.jsx"
+        },
+        {
+          "id": "Cr5EBAJOw",
+          "name": "PlayIcon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Play.jsx"
+        },
+        {
+          "id": "9yj-bvrvWY0",
+          "name": "Line3Icon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Line3.jsx"
+        },
+        {
+          "id": "6nLXUiWhqcf",
+          "name": "InfoCircleIcon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__InfoCircle.jsx"
+        },
+        {
+          "id": "w3pJV6oGweT",
+          "name": "Line2Icon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Line2.jsx"
+        },
+        {
+          "id": "XaV764iHIos",
+          "name": "ActivityIcon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Activity.jsx"
+        },
+        {
+          "id": "yM-lFOMKy46",
+          "name": "Line4Icon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Line4.jsx"
+        },
+        {
+          "id": "TZOloskC_Tj",
+          "name": "Ellipse17Icon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Ellipse17.jsx"
+        },
+        {
+          "id": "n0O7qLzpYMz",
+          "name": "HeartIcon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Heart.jsx"
+        },
+        {
+          "id": "z1ZP_2U5Z1H",
+          "name": "LocationIcon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Location.jsx"
+        },
+        {
+          "id": "CLp_IBJHeGX",
+          "name": "Ellipse1Icon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Ellipse1.jsx"
+        },
+        {
+          "id": "lW5GxfuB4u2",
+          "name": "UnlockIcon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Unlock.jsx"
+        },
+        {
+          "id": "UMXUc6JX9ya",
+          "name": "GroupIcon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Group.jsx"
+        },
+        {
+          "id": "bRUR_8sx41X",
+          "name": "Line5Icon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Line5.jsx"
+        },
+        {
+          "id": "NYmAmUM4NBSx",
+          "name": "Line6Icon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Line6.jsx"
+        },
+        {
+          "id": "2ru166OzTqEN",
+          "name": "MMapPinIcon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__MMapPin.jsx"
+        },
+        {
+          "id": "4I11y0FsKmsK",
+          "name": "Line1Icon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Line1.jsx"
+        },
+        {
+          "id": "Qt_OBWOD0WrQ",
+          "name": "DiscoveryIcon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Discovery.jsx"
+        },
+        {
+          "id": "ojiHJE8U-h54",
+          "name": "Heart2Icon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Heart2.jsx"
+        },
+        {
+          "id": "l2YilWwPj6cA",
+          "name": "Activity2Icon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Activity2.jsx"
+        },
+        {
+          "id": "RM77UgBTGhUg",
+          "name": "ProfileIcon",
+          "moduleFilePath": "plasmic/blank_project/icons/PlasmicIcon__Profile.jsx"
+        }
+      ],
+      "images": [
+        {
+          "id": "7E8Ec5woo",
+          "name": "Rectangle 4",
+          "filePath": "plasmic/blank_project/images/rectangle4.jpeg"
+        },
+        {
+          "id": "hhr-Hyb9c_",
+          "name": "Box",
+          "filePath": "plasmic/blank_project/images/box.png"
+        },
+        {
+          "id": "ROz6TGvvu0",
+          "name": "Rectangle 2",
+          "filePath": "plasmic/blank_project/images/rectangle2.png"
+        },
+        {
+          "id": "8T48Gba-lc",
+          "name": "Rectangle 3",
+          "filePath": "plasmic/blank_project/images/rectangle3.png"
+        },
+        {
+          "id": "EdUOsbjjFh",
+          "name": "Rectangle 5",
+          "filePath": "plasmic/blank_project/images/rectangle5.jpeg"
+        },
+        {
+          "id": "YyS0Ib-pw6",
+          "name": "Rectangle 6",
+          "filePath": "plasmic/blank_project/images/rectangle6.png"
+        },
+        {
+          "id": "vJxZG6QQgO",
+          "name": "Rectangle 7",
+          "filePath": "plasmic/blank_project/images/rectangle7.png"
+        },
+        {
+          "id": "FSjOa70xCi",
+          "name": "Saly-1",
+          "filePath": "plasmic/blank_project/images/saly1.png"
+        },
+        {
+          "id": "asKXnWnpG2",
+          "name": "Rectangle 8",
+          "filePath": "plasmic/blank_project/images/rectangle8.png"
+        },
+        {
+          "id": "vWGGhBEvFZ",
+          "name": "Rectangle 9",
+          "filePath": "plasmic/blank_project/images/rectangle9.png"
+        },
+        {
+          "id": "svIgHYtl91",
+          "name": "Progress",
+          "filePath": "plasmic/blank_project/images/progress.svg"
+        },
+        {
+          "id": "136xIIPsBsA",
+          "name": "Time Circle",
+          "filePath": "plasmic/blank_project/images/timeCircle.svg"
+        }
+      ],
+      "codeComponents": [],
+      "projectApiToken": "sl4noDfhfzraTHQzNtSbVdDb47mY9PAAOelcA9CHNSB21DnlMUNCwI5zmEiZvNsz0oPqx0RHlvy2Riwf6Y0w"
+    }
+  ],
+  "globalVariants": {
+    "variantGroups": [
+      {
+        "id": "rvoN2xrUOYXu",
+        "name": "Screen",
+        "projectId": "d1owdbBMaohsPXtfTvtnQ1",
+        "contextFilePath": "plasmic/blank_project/PlasmicGlobalVariant__Screen.jsx"
+      }
+    ]
+  },
+  "cliVersion": "0.1.157",
+  "$schema": "https://unpkg.com/@plasmicapp/cli@0.1.157/dist/plasmic.schema.json"
+}
